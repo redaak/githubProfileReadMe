@@ -1,7 +1,10 @@
 ### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Reda</h1>
 <h3 align="center">A passionate Back-end developer from Morocco</h3>
+
+- 🔭 I’m currently working on **Bayse classifier**
+
+- 🌱 I’m currently learning **TensorFlow**
 
 - 👯 I’m looking to collaborate on **Open source**
 
@@ -11,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/reda78737897" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reda78737897" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/reda-akdim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reda akdim" height="30" width="40" /></a>
+<a href="https://twitter.com/reda78737897" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reda78737897" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/reda akdim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reda akdim" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
